@@ -19,14 +19,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0">
 
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="51dp"
-            android:text="TextView"
-            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-            tools:text="           Admission Form" />
-
         <EditText
             android:id="@+id/et_sName"
             android:layout_width="match_parent"
@@ -110,7 +102,7 @@
         <Button
             android:id="@+id/button"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="67dp"
             android:text="Submit" />
 
     </LinearLayout>

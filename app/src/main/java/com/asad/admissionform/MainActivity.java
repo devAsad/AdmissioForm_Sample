@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView textView;
+
     EditText editText1,editText2,editText3,editText4,editText5,editText6,editText7,editText8, editText9, editText10;
     Button button1;
 
